@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HasanCahan
-- 👀 I’m interested in SPACE
-- 🌱 I’m currently learning HACKİNG
-- 💞️ I’m looking to collaborate on Onion
+- 👀 I’m interested in Hacking
+- 🌱 I’m currently learning Asp.Net Core Mvc
+- 💞️ I’m looking to collaborate on NASA :)
 - 📫 How to reach me cahanhasan.com
 
 <!---
