@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Hasan>
+<h2 align="center">Hi 👋! My name is Hasan </h2>
 
 <p align="center">
 .NET Core geliştiricisiyim ve modern web teknolojileriyle çözüm üretmeyi seviyorum. Geliştirdiğim projelerde yüksek performans, güvenlik ve sürdürülebilirliği ön planda tutarak, kullanıcılara en iyi deneyimi sunmayı hedefliyorum.
