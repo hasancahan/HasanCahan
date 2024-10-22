@@ -58,7 +58,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/hasan-cahan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:careers@hasancahan.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"></a>
-    <a href="www.hasancahan.com" target="_blank">
+    <a href="https://hasancahan.com/" target="_blank">
     <img src="https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Web Sitesi">
   </a>
 </p>
