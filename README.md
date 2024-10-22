@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋! My name is Hasan and I'm a Full Stack .NET Developer from Türkiye</h2>
-<br>
+<h2 align="center">Hi 👋! My name is Hasan>
 
 <p align="center">
 .NET Core geliştiricisiyim ve modern web teknolojileriyle çözüm üretmeyi seviyorum. Geliştirdiğim projelerde yüksek performans, güvenlik ve sürdürülebilirliği ön planda tutarak, kullanıcılara en iyi deneyimi sunmayı hedefliyorum.
