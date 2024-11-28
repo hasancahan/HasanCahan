@@ -2,7 +2,7 @@
 <h1 align="center">Merhaba, Ben Hasan! 👋</h1>
 
 <p align="center">
-.NET Core Web geliştiricisiyim ve modern web teknolojileriyle çözüm üretmeyi seviyorum. Geliştirdiğim projelerde yüksek performans, güvenlik ve sürdürülebilirliği ön planda tutarak, kullanıcılara en iyi deneyimi sunmayı hedefliyorum.
+Ben bir yazılım geliştirici olarak geliştirdiğim projelerde yüksek performans, güvenlik ve sürdürülebilirliği ön planda tutarak, kullanıcılara en iyi deneyimi sunmayı hedefliyorum.
 </p>
 
 ###
