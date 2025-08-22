@@ -34,9 +34,6 @@ Ben bir yazılım geliştirici olarak geliştirdiğim projelerde yüksek perform
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hasancahan/count.svg?"  />
-</div>
 
 ###
 
