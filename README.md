@@ -28,10 +28,7 @@ Ben bir yazılım geliştirici olarak geliştirdiğim projelerde yüksek perform
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="12" />
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#ffffff" width="80" height="80">
-  <path d="M2.023 0C.905.005.005.905 0 2.023v19.954C.005 23.095.905 23.995 2.023 24h19.954c1.118-.005 2.018-.905 2.023-2.023V2.023C23.995.905 23.095.005 21.977 0H2.023zm8.85 4.996a4.996 4.996 0 0 1 4.996 4.996 4.996 4.996 0 0 1-4.996 4.996 4.996 4.996 0 0 1-4.996-4.996 4.996 4.996 0 0 1 4.996-4.996zm6.572 7.69a2.498 2.498 0 0 1 2.498 2.498 2.498 2.498 0 0 1-2.498 2.498 2.498 2.498 0 0 1-2.498-2.498 2.498 2.498 0 0 1 2.498-2.498zM6.5 17.01a2.498 2.498 0 0 1 2.498 2.498A2.498 2.498 0 0 1 6.5 22.006a2.498 2.498 0 0 1-2.498-2.498A2.498 2.498 0 0 1 6.5 17.01z"/>
-</svg>
-
+SvgPicture.network('https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg', colorFilter: const ColorFilter.mode(Colors.white, BlendMode.srcIn));
 
 
 </div>
