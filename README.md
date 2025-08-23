@@ -8,7 +8,7 @@ Ben bir yazılım geliştirici olarak geliştirdiğim projelerde yüksek perform
 ###
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFhODRydWxtaHJvbGxydGo5NW0yMW53aDZud2J5NDJhZ3d6ZjdzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.webp"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF0Mm0yb2J1MWFnb3NhNTZocXN4cXM3MGZkbW5sNWIyZGdzemRwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
 </div>
 
 ###
@@ -31,9 +31,6 @@ Ben bir yazılım geliştirici olarak geliştirdiğim projelerde yüksek perform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" alt="arduino logo"  />
 
 </div>
-
-###
-
 
 ###
 
