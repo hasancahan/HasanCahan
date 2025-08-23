@@ -28,7 +28,7 @@ Ben bir yazılım geliştirici olarak geliştirdiğim projelerde yüksek perform
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" height="25" alt="n8n logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" height="25" alt="n8n logo style="width:80px; height:auto; filter:invert(1);"  />
 
 </div>
 
