@@ -47,6 +47,9 @@ Ben bir yazılım geliştirici olarak geliştirdiğim projelerde yüksek perform
     <a href="https://hasancahan.com/" target="_blank">
     <img src="https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Web Sitesi">
   </a>
+      <a href="https://hdynamicx.com" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=internet-explorer&logoColor=yellow" alt="HDynamicX">
+  </a>
 </p>
 
 <p align="center">
