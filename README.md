@@ -1,4 +1,5 @@
 <div align="center">
+  <h1>👋 Merhaba, ben Hasan</h1>
   <p><strong>Yazılım Mühendisi | .NET Developer | IT Specialist | HDynamicX Kurucu</strong></p>
 </div>
 
