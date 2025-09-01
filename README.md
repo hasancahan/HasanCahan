@@ -6,18 +6,22 @@
 
 <div align="center">
 <p>
-💼 <b>Profesyonel kariyerime</b> Aralık 2021 tarihinde başladım.  
+<b>Profesyonel kariyerime</b> Aralık 2021 tarihinde başladım.  
 O günden bu yana özellikle <b>.NET teknolojileri</b> üzerinde yoğunlaşarak hem <b>Backend</b> hem de <b>Frontend</b> projelerde aktif rol aldım.  
 Başta <b>C#</b> olmak üzere birçok programlama diliyle çalışma deneyimine sahibim.  
 </p>
 
 <p>
-⚙️ Yazılımın yanı sıra <b>sistem ve altyapı</b> tarafında da kendimi geliştirdim.  
+Yazılımın yanı sıra <b>sistem ve altyapı</b> tarafında da kendimi geliştirdim.  
 Şu anda bir <b>inşaat firmasında Bilgi İşlem Uzmanı</b> olarak görev yapıyor, hem yazılım geliştirme hem de IT altyapı süreçlerini yöneten çok yönlü bir pozisyonda çalışıyorum.  
 </p>
 
 <p>
-🚀 Yeni teknolojilere açık, öğrenmeye hevesli ve çözüm odaklı bir mühendis olarak kariyerimi daha ileri taşımayı hedefliyorum.  
+Yeni teknolojilere açık, öğrenmeye hevesli ve çözüm odaklı bir mühendis olarak kariyerimi daha ileri taşımayı hedefliyorum.  
+</p>
+
+<p>
+🚀 Ayrıca yazılım ve bilgi teknolojileri şirketi olarak faaliyete geçmeye çalışan HDynamicX şirketinin de kurucusuyum.
 </p>
 
 </div>
