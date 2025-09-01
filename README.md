@@ -4,7 +4,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
 <p>
 💼 <b>Profesyonel kariyerime</b> Aralık 2021 tarihinde başladım.  
 O günden bu yana özellikle <b>.NET teknolojileri</b> üzerinde yoğunlaşarak hem <b>Backend</b> hem de <b>Frontend</b> projelerde aktif rol aldım.  
