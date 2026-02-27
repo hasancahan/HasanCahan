@@ -13,8 +13,7 @@ Başta <b>C#</b> olmak üzere birçok programlama diliyle çalışma deneyimine 
 </p>
 
 <p>
-Yazılımın yanı sıra <b>sistem ve altyapı</b> tarafında da kendimi geliştirdim.  
-Şu anda bir firmada Bilgi İşlem Uzmanı olarak görev yapıyor, hem yazılım geliştirme hem de IT altyapı süreçlerini yöneten çok yönlü bir pozisyonda çalışıyorum.  
+Yazılımın yanı sıra <b>sistem ve altyapı</b> tarafında da kendimi geliştirdim.    
 </p>
 
 <p>
